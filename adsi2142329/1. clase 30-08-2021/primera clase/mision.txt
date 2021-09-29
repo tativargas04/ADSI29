@@ -1,0 +1,3 @@
+hace una version en la que se puede meter por un formulario los arreglos con promedio, mayor, menor, moda, mediana 
+
+funcion por cada uno de los repos....

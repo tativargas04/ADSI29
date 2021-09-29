@@ -1,0 +1,9 @@
+ARREGLOS
+-es una variable que almacena una coleccion de datos 
+-cada elemento de la coleccion se ubica en una posicion 
+-las posiciones inician en cero (0). se llama indexacion basada en cero 
+-tiene un tamaño 
+FUNCIONES
+-conjunto de operaciones. tiene entrada y salida. 
+-Resumen operaciones
+-puede retornar un valor espacifico..

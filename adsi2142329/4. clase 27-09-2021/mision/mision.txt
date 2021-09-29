@@ -1,0 +1,1 @@
+hacer funciones flecha para suma resta mult div media promed
