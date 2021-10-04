@@ -1,1 +1,5 @@
 consultar cual es la tarea
+
+1- instalar node.js
+2- fraccionarios JSON
+3- get y set en JS (leer)

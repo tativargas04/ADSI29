@@ -1,0 +1,10 @@
+¿Que son los GET Y  SET en java?
+
+
+
+Los métodos get y set, son simples métodos que usamos en las clases,
+para mostrar (get) o modificar (set) el valor de un atributo. 
+El nombre del método siempre sera get o set y a continuación,
+el nombre del atributo, su modificador siempre es public ya que 
+queremos mostrar o modificar desde fuera la clase.
+

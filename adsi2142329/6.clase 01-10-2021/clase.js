@@ -25,7 +25,7 @@ console.log(alumno.apellido);
     d1:2,
     d2:3,
     suma:function() {
-        return this
+        return this 
         
     }
 
