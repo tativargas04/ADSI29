@@ -6,7 +6,7 @@
 .principal{
     color: rgba(236, 59, 59, 0.836);
     text-align: center;
-    background-color:rgb(49, 49, 49);
+    background-color:rgb(250, 248, 248);
     padding-bottom: 50%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
@@ -18,7 +18,7 @@
 .compu{
     width: 350px;
     height: 350px;
-    color: aliceblue;
+    color: rgb(255, 243, 240);
 }
 /*letra*/
 .container {
@@ -41,7 +41,7 @@
 }
 .text {
     
-    color: #fcf5ef ;
+    color: rgba(236, 59, 59, 0.836);
     font-size: 70px !important;
     position: absolute;
     top: 50%;
@@ -99,6 +99,7 @@ li a.active {
     padding-top: 140px;
     text-align: center;
     font-size: 50px;
+    height: 400px;
     
 }
 .eyes{
@@ -113,7 +114,7 @@ li a.active {
     width: 50%;
     padding-top: 140px;
     text-align: center;
-    margin-top: -50.6%;
+    margin-top: -49.9%;
 }
 .partetres{
     float: right;
@@ -122,7 +123,7 @@ li a.active {
     width: 50%;
     padding-top: 140px;
     text-align: center;
-    margin-top: -32.8%;
+    margin-top: -33%;
 }.partecuatro{
     float: right;
     background-color: #050504;
@@ -130,7 +131,7 @@ li a.active {
     width: 50%;
     padding-top: 140px;
     text-align: center;
-    margin-top: -15.7%;
+    margin-top: -16.3%;
 }
 .final{
     margin-top: 10%;
@@ -161,6 +162,14 @@ footer {
 .marginFooter {
     margin: 40px;
 }
+/*fotos*/
+.foto1{
+    width: 550px;
+    height: 150px;
+    margin-top: -90.6%;
+}
+
+
 
 
 
