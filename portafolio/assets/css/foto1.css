@@ -1,0 +1,72 @@
+/* estilos de barra de navegacion */
+ul {
+    list-style-type:none;
+    padding: 0;
+    overflow: hidden;
+    background-color:#db0a0a;
+   
+}
+
+li {
+    float: left;
+    margin-left: 89px;
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111110 ;
+}
+
+li a.active {
+    color: white;
+    background-color: #050504 ;
+}
+
+/* fin*/
+.actu{
+    width: 450px;
+    
+}
+.text1{
+    float: right;
+    width: 50%;
+    margin-top: -310px;
+    font-style: oblique;
+}
+.actu2{
+    width: 100%;
+    
+}
+.text2{
+    font-style: oblique;
+}
+.text3{
+    font-style: oblique;
+
+}
+
+/*Pie de pagina*/
+footer {
+    background-color: #050504;
+    border: red 5px solid;
+    color: #e7e7e7;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 150px;
+    font-style: oblique;
+}
+
+.marginFooter {
+    margin: 40px;
+}
+/*
