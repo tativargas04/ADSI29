@@ -139,12 +139,37 @@ li a.active {
     font-style: oblique;
     font-size: 20px;
 }
-.flecha{
+.facebook{
     float: right;
     margin-top: -5%;
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     margin-right: 75%;
+}
+.instagram{
+    float: right;
+    margin-top: -4%;
+    width: 70px;
+    height: 70px;
+    margin-right: -18%;
+}
+.whatsapp{
+    float: right;
+    margin-top: -4%;
+    width: 70px;
+    height: 70px;
+    margin-right: -30%;
+}
+.telegram{
+    float: right;
+    margin-top: -4%;
+    width: 70px;
+    height: 70px;
+    margin-right: -41%;
+}
+.frase{
+    font-style: oblique;
+    font-size: 29px;
 }
 /*Pie de pagina*/
 footer {

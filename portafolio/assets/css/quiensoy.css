@@ -31,6 +31,64 @@ li a.active {
 }
 
 /* fin*/
+
+.foto{
+    width: 200px;
+    border-radius:200px;
+    border:3px solid #050504;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.texto{
+    width: 60%;
+    height: 220px;
+    float: right;
+    margin-top: -220px;
+    
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    font-style: oblique;
+    background-color: #050404;
+    color: aliceblue;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.texto2{
+    width: 60%;
+    height: 220px;
+    display: flex;
+    float: right;
+    margin-top: -10px;
+    
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    font-style: oblique;
+    background-color: #050404;
+    color: aliceblue;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.frase{
+    font-style: oblique;
+    
+}
+.foto2{
+    margin-top: 90px;
+    display: flex;
+    width: 2000px;
+    height: 600px;
+}
+
 /*Pie de pagina*/
 footer {
     background-color: #050504;
@@ -40,11 +98,10 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 20px;
+    margin-top: 50px;
     font-style: oblique;
 }
 
 .marginFooter {
-    margin: 40px;
+    margin: 90px;
 }
-/*
