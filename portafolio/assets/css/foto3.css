@@ -31,6 +31,24 @@ li a.active {
 }
 
 /* fin*/
+.text{
+    font-style: oblique;
+    width: 100%;
+    height: 295px;
+    background-color: #050504;
+    color: #e7e7e7;
+    font-size: 45px;
+}
+.foto{
+    text-align: right;
+}
+.text1{
+    font-style: oblique;
+    width: 70%;
+    text-align: center;
+    display: flex;
+    margin-left: 140px;
+}
 /*Pie de pagina*/
 footer {
     background-color: #050504;
@@ -40,7 +58,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 20px;
+    margin-top: 200px;
     font-style: oblique;
 }
 

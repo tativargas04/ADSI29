@@ -31,6 +31,41 @@ li a.active {
 }
 
 /* fin*/
+.text{
+    font-style: oblique;
+}
+.foto{
+    text-align: center;
+    margin-top: 50px;
+}
+.text1{
+    font-style: oblique;
+    width: 70%;
+    text-align: center;
+    display: flex;
+    margin-left: 140px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*Pie de pagina*/
 footer {
     background-color: #050504;
