@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="../estilos/estilo19.css">
 	<meta charset="utf-8">
 	<meta name="keywords" content="ingredientes,comida,platos,hamburguesas,rapidas">
-	<meta name="description" content="Esta pagina trata de una aplicacion interactiva que permite al usuario crear su propio plato, el cliente arrastra los ingredientes y se va formando su plato">
+	<meta name="description" content="Pagina de muebles">
 	<meta name="author" content="TATIANA VARGAS">
 	<meta name="viewport" content="width-device-width, initial-scale-1.0">
 </head>

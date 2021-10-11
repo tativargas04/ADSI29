@@ -33,7 +33,7 @@
         </div>
         <div class="partedos">
             <p>A nivel mundial</p>
-            <a href="foto1.php"><img src="assets/css/imagenes/istockphoto-1194430840-612x612.jpg" class="foto1">
+            <a href="foto1.php"><img src="assets/css/imagenes/istockphoto-1194430840-612x612.jpg" class="foto1"></a>
             </div>
         <div class="partetres">
             <p>LOS LENGUAJES MAS USADOS EN ESTA EPOCA </p>
