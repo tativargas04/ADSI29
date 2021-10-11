@@ -1,3 +1,39 @@
 instrucciones  de portafolio
-1.el portafolio se encuentra en la carpeta de portafolio 
-2.En este momento no cuento con el crud, ni con el manual pero ya me adelante de varias cositas.
+buen dia:
+parase en la carpeta  del portafolio hay encontraras, todo lo referente
+alo solicitado del portafolio.
+
+datos:
+1.para habalr sobre mi hay una pequeña descripcion mia.
+2. se cuenta con un menu de navegacion que nos lleva las diferentes areas.
+3.en el index principal o debajo de este menu encontrara 3 imagenes
+ si le da clcik a cada imagen la llevara a otra interfaz con informacion
+ muy importante.
+4.contamos con unos iconos de contacto pero estos no nos llevan a ningun lado
+5.en el footer o pie de pagina cuenta con un boton que dice inicio,
+ donde en todos nuestras interfaces nos devolvera a la parte inicial.
+6.todas las interfaces cuentas con una barra de navegacion, que nos permite 
+ movernos entre ellas,  cuentas con el pie de pagina que nos facilita,
+ devolvernos a  la pagina principal.
+7.en la parte del menu de usuario contamos con la explicacion o un paso 
+ a paso de los dos manuales.
+8.en la parte de blogs ivan los videos ,pero como ya no se reuqeria 
+  no encontrarmos nada.
+9.en la parte del crud encontrara una imagen que al darle click hay 
+nos llevara a nuestros usurios registrados, donde podremos encontrara
+botones que nos permitiran registrar, eliminar y actualizar a cualquera de nuestros
+usuarios.
+
+importante:cabe recalcar que para hacer cada cosa del boton registrar,actualizar
+o eliminar hay que volver a recargar la listausuarios.php para ver los cambios 
+y que este cumpliendo con lo requerido.
+
+es imotante saber o tener claro que la base de datos se encuentra dentro de portafolio y 
+hay encontraremos una carpeta q se llama base de datos y que el instructor podra
+descargar .
+
+10.en laparte de java hay una imagen donde al darle click hay nos llevara 
+al repositorio principal q es ADSI29 y dentro de esa hay que ir a la carpeta adsi2142329 donde 
+encontraremos todas las clases hasta el dia de hoy y las tareas por clase segun lo requerido
+
+
