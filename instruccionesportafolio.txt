@@ -20,24 +20,24 @@ datos:
 8.en la parte de blogs ivan los videos ,pero como ya no se reuqeria 
   no encontrarmos nada.
 9.en la parte del crud encontrara una imagen que al darle click hay 
-nos llevara a nuestros usurios registrados, donde podremos encontrara
-botones que nos permitiran registrar, eliminar y actualizar a cualquera de nuestros
-usuarios.
+ nos llevara a nuestros usurios registrados, donde podremos encontrara
+ botones que nos permitiran registrar, eliminar y actualizar a cualquera de nuestros
+ usuarios.
 
-importante:cabe recalcar que para hacer cada cosa del boton registrar,actualizar
-o eliminar hay que volver a recargar la listausuarios.php para ver los cambios 
-y que este cumpliendo con lo requerido.
+ importante:cabe recalcar que para hacer cada cosa del boton registrar,actualizar
+ o eliminar hay que volver a recargar la listausuarios.php para ver los cambios 
+ y que este cumpliendo con lo requerido.
 
-es imotante saber o tener claro que la base de datos se encuentra dentro de portafolio y 
-hay encontraremos una carpeta q se llama base de datos y que el instructor podra
-descargar .
+ es imotante saber o tener claro que la base de datos se encuentra dentro de portafolio y 
+ hay encontraremos una carpeta q se llama base de datos y que el instructor podra
+ descargar .
 
 10.en laparte de java hay una imagen donde al darle click hay nos llevara 
-al repositorio principal q es ADSI29 y dentro de esa hay que ir a la carpeta adsi2142329 donde 
-encontraremos todas las clases hasta el dia de hoy y las tareas por clase segun lo requerido.
+ al repositorio principal q es ADSI29 y dentro de esa hay que ir a la carpeta adsi2142329 donde 
+ encontraremos todas las clases hasta el dia de hoy y las tareas por clase segun lo requerido.
 
-hasta el moemnto para entrega son 3 actividades de java dodne estaran llamadas 
-como tareas en las carpetas de la clase n 7 , la clase n 6 y la clase n 5, y en lasprimeras 
-encontrara las primeras actividades.
+ hasta el moemnto para entrega son 3 actividades de java dodne estaran llamadas 
+ omo tareas en las carpetas de la clase n 7 , la clase n 6 y la clase n 5, y en lasprimeras 
+ encontrara las primeras actividades.
 
 
