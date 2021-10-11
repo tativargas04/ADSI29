@@ -38,7 +38,7 @@ return[
 <header>
 	<h1 id="tit">ACTUALIZAR USUARIO</h1>
 </header>
-<form method="GET" action="../controlador/controladorregistro.php"> 
+<form method="GET" action="../controlador/controladoractualizar.php"> 
 	<p>Hola! </P>
 	<label>Id Usuarios</label>
 	<input type="text" class="ctexto" name="id_usuarios" value="<?php echo $consulta[0]?>" ><br><br>
