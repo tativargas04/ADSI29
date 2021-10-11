@@ -9,11 +9,11 @@
 <body>
     <div class="menu">
         <ul>
-            <li><a class="active" href="index.html">volver</a></li>
-            <li><a href="manual.html">Manual </a></li>
-            <li><a href="blogs.html">Blogs</a></li>
-            <li><a href="crud.html">Crud</a></li>
-            <li><a href="java.js">Java</a></li>
+            <li><a class="active" href="index.php">volver</a></li>
+            <li><a href="manual.php">Manual </a></li>
+            <li><a href="blogs.php">Blogs</a></li>
+            <li><a href="crud.php">Crud</a></li>
+            <li><a href="java.php">Java</a></li>
         </ul>
     </div>
     <div class="text">
@@ -170,7 +170,7 @@
             <h3>correo:ptvargas3@misena.edu.co</h3>
         </div>
         <div class="marginFooter">
-            <button><a class="active" href="index.html">Inicio</a></button>
+            <button><a class="active" href="index.php">Inicio</a></button>
             <button>Suscribete</button>
         </div>
     </footer>

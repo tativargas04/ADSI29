@@ -3,21 +3,21 @@
 <head>
     <title>portafolio</title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="assets/css/crud.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/java.css">
 </script></script>
 </head>
 <body>
     <div class="menu">
         <ul>
-            <li><a class="active" href="index.html">volver</a></li>
-            <li><a href="manual.html">Manual </a></li>
-            <li><a href="blogs.html">Blogs</a></li>
-            <li><a href="crud.html">Crud</a></li>
-            <li><a href="java.js">Java</a></li>
+            <li><a class="active" href="index.php">volver</a></li>
+            <li><a href="manual.php">Manual </a></li>
+            <li><a href="blogs.php">Blogs</a></li>
+            <li><a href="crud.php">Crud</a></li>
+            <li><a href="java.php">Java</a></li>
         </ul>
     </div>
     <div class="foto">
-        <a href="listarusuarios.php"><img src="assets/css/imagenes/crud.png">
+        <a href="https://github.com/tativargas04/ADSI29"><img src="assets/css/imagenes/java.png">
     </div>
     <br>
     <br>
@@ -32,7 +32,7 @@
             <h3>correo:ptvargas3@misena.edu.co</h3>
         </div>
         <div class="marginFooter">
-            <button><a class="active" href="index.html">Inicio</a></button>
+            <button><a class="active" href="index.php">Inicio</a></button>
             <button>Suscribete</button>
         </div>
     </footer>

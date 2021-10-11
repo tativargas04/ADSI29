@@ -18,11 +18,11 @@
         </div>
         <div class="menu">
             <ul>
-                <li><a class="active" href="quiensoy.html">¿Quien soy?</a></li>
-                <li><a href="manual.html">Manual </a></li>
-                <li><a href="blogs.html">Blogs</a></li>
-                <li><a href="crud.html">Crud</a></li>
-                <li><a href="java.html">Java</a></li>
+                <li><a class="active" href="quiensoy.php">¿Quien soy?</a></li>
+                <li><a href="manual.php">Manual </a></li>
+                <li><a href="blogs.php">Blogs</a></li>
+                <li><a href="crud.php">Crud</a></li>
+                <li><a href="java.php">Java</a></li>
             </ul>
         </div>
 
@@ -33,15 +33,15 @@
         </div>
         <div class="partedos">
             <p>A nivel mundial</p>
-            <a href="foto1.html"><img src="assets/css/imagenes/istockphoto-1194430840-612x612.jpg" class="foto1">
+            <a href="foto1.php"><img src="assets/css/imagenes/istockphoto-1194430840-612x612.jpg" class="foto1">
             </div>
         <div class="partetres">
             <p>LOS LENGUAJES MAS USADOS EN ESTA EPOCA </p>
-            <a href="foto2.html"><img src="assets/css/imagenes/lenguajes.jpg" class="foto1"></a>
+            <a href="foto2.php"><img src="assets/css/imagenes/lenguajes.jpg" class="foto1"></a>
         </div>
         <div class="partecuatro">
             <p>avances tecnologicos</p>
-            <a href="foto3.html"><img src="assets/css/imagenes/avances.jpg" class="foto1"></a>
+            <a href="foto3.php"><img src="assets/css/imagenes/avances.jpg" class="foto1"></a>
         </div>
         __________________________________________________________________________________________________________________________________________
         
@@ -77,7 +77,7 @@
                 <h3>correo:ptvargas3@misena.edu.co</h3>
             </div>
             <div class="marginFooter">
-                <button><a class="active" href="index.html">Inicio</a></button>
+                <button><a class="active" href="index.php">Inicio</a></button>
                 <button>Suscribete</button>
             </div>
         </footer>
