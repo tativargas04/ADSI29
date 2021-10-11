@@ -34,6 +34,10 @@ descargar .
 
 10.en laparte de java hay una imagen donde al darle click hay nos llevara 
 al repositorio principal q es ADSI29 y dentro de esa hay que ir a la carpeta adsi2142329 donde 
-encontraremos todas las clases hasta el dia de hoy y las tareas por clase segun lo requerido
+encontraremos todas las clases hasta el dia de hoy y las tareas por clase segun lo requerido.
+
+hasta el moemnto para entrega son 3 actividades de java dodne estaran llamadas 
+como tareas en las carpetas de la clase n 7 , la clase n 6 y la clase n 5, y en lasprimeras 
+encontrara las primeras actividades.
 
 
