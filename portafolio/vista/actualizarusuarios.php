@@ -67,7 +67,7 @@ return[
 	<input class="b1" type="submit"  name="update" value="ACTUALIZAR">
 	
 </form>
-	<a id="v" href="listarusuarios.php"><button class="b1"> VOLVER LISTADO</button></a>
+	<a id="v" href="../vista/listarusuarios.php"><button class="b1"> VOLVER LISTADO</button></a>
 <footer>
 </footer>
 

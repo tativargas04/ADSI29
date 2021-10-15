@@ -1,16 +1,16 @@
 instrucciones  de portafolio
 buen dia:
-parase en la carpeta  del portafolio hay encontraras, todo lo referente
-alo solicitado del portafolio.
+posicionese en la carpeta  del portafolio ahì encontraras, todo lo referente
+a lo solicitado del portafolio.
 
 datos:
-1.para habalr sobre mi hay una pequeña descripcion mia.
+1.para habalr sobre mi, hay una pequeña descripcion mia.
 2. se cuenta con un menu de navegacion que nos lleva las diferentes areas.
-3.en el index principal o debajo de este menu encontrara 3 imagenes
- si le da clcik a cada imagen la llevara a otra interfaz con informacion
+3.en el index principal o debajo de este menu encontrarà 3 imàgenes
+ si le da clic a cada imàgen la llevara a otra interfaz con informaciòn
  muy importante.
-4.contamos con unos iconos de contacto pero estos no nos llevan a ningun lado
-5.en el footer o pie de pagina cuenta con un boton que dice inicio,
+4.contamos con unos iconos de contacto pero estos no nos llevan a ningun lado.
+5.en el footer o pie de pàgina cuenta con un boton que dice inicio,
  donde en todos nuestras interfaces nos devolvera a la parte inicial.
 6.todas las interfaces cuentas con una barra de navegacion, que nos permite 
  movernos entre ellas,  cuentas con el pie de pagina que nos facilita,
@@ -30,7 +30,7 @@ datos:
 
  es imotante saber o tener claro que la base de datos se encuentra dentro de portafolio y 
  hay encontraremos una carpeta q se llama base de datos y que el instructor podra
- descargar .
+ descargar, esta base tiene com nombre eco&muebles.
 
 10.en laparte de java hay una imagen donde al darle click hay nos llevara 
  al repositorio principal q es ADSI29 y dentro de esa hay que ir a la carpeta adsi2142329 donde 

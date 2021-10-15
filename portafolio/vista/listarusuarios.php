@@ -60,7 +60,8 @@
 			
     </table>
 
-	<a href="registrousuarios.php"><input type="button" value="Registrar" class="boton1"></a>
+	<a href="../vista/registrousuarios.php"><input type="button" value="Registrar" class="boton1"></a>
+	<a href="../vista/index.php"><input type="button" value="Inicio portafolio" class="boton1"></a>
 </div>
 </body>
 </html>
